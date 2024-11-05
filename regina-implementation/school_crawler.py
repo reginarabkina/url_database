@@ -13,7 +13,7 @@ import csv
 import dns.resolver
 import smtplib
 
-
+# Update
 # MySQL Credentials
 HOST = 'localhost'
 USER = 'root'
